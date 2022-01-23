@@ -96,4 +96,9 @@ hr {
     margin: 20px 30px;
     width: auto;
   }
+
+  .image-box {
+    width: 350px;
+    margin: auto;
+  }
 }
