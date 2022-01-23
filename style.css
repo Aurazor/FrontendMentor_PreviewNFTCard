@@ -98,7 +98,7 @@ hr {
   }
 
   .image-box {
-    width: 350px;
+    max-width: 350px;
     margin: auto;
   }
 }
