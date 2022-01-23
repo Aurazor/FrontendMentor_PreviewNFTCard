@@ -90,3 +90,10 @@ hr {
 .creator-name {
   color: var(--color_white);
 }
+
+@media (max-width: 500px) {
+  .container {
+    margin: 20px 30px;
+    width: auto;
+  }
+}
