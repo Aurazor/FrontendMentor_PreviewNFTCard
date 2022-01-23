@@ -85,7 +85,7 @@ h1 {
 
 p,
 .duration {
-  color: var(--color_Neutral-veryDarkBlue3);
+  color: var(--color-Primary-softBlue);
 }
 
 .currency {
@@ -97,6 +97,7 @@ p,
   align-items: center;
   justify-content: flex-start;
   margin-top: 14px;
+  color: var(--color-Primary-softBlue);
 }
 
 .creator img {
@@ -105,10 +106,6 @@ p,
   margin-right: 10px;
   border: 1px solid white;
   border-radius: 20px;
-}
-
-hr {
-  color: var(--color_Neutral-veryDarkBlue3);
 }
 
 .creator-name {
